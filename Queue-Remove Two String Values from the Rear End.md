@@ -36,3 +36,4 @@ print(f"deque({l})")
 ### Output:
 ![image](https://github.com/user-attachments/assets/4f747b20-511b-4fe3-ab94-04c82765d03e)
 ## Result:
+Thus, the program has been successfully executed.
